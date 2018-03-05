@@ -1,0 +1,25 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "天天故事",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/137863824/MyProject.git"
+  },
+  "keywords": [
+    "everyday",
+    "天天",
+    "故事",
+    "故事会"
+  ],
+  "author": "cak,137863824@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/137863824/MyProject/issues"
+  },
+  "homepage": "https://github.com/137863824/MyProject#readme"
+}
